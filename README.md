@@ -1,0 +1,1 @@
+Use the mouse hotkey file to find the coordinates on your screen. when you run the hotkey file use the f1 key to have a banner show the location of your mouse. hover that over the GSPRO tils to find the coordinates to input in the other code.
